@@ -1,0 +1,5 @@
+product_id,category,base_price,margin_pct
+P101,Electronics,2000,0.25
+P102,Electronics,1500,0.22
+P103,Home,800,0.3
+P104,Fashion,1200,0.35

@@ -1,0 +1,6 @@
+customer_id,region,segment,signup_date
+C001,North,Smb,2024-12-01
+C002,South,Enterprise,2024-03-02
+C003,East,Smb,
+C004,South,Smb,
+C005,West,Enterprise,2024-10-02

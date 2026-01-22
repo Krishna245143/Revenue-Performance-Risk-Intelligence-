@@ -1,0 +1,7 @@
+event_date,region,event_type,count
+2024-01-06,South,Visit,12000
+2024-01-06,South,Add_To_Cart,1800
+2024-01-06,South,Purchase,450
+2024-01-06,North,Visit,10000
+2024-01-06,North,Add_To_Cart,2600
+2024-01-06,North,Purchase,1100
